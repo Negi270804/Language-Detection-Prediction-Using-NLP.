@@ -134,7 +134,6 @@ Predicted Language: en
 
 * [Scikit-learn TF-IDF Vectorizer](https://scikit-learn.org/stable/modules/feature_extraction.html#text-feature-extraction)
 * [Multinomial Naive Bayes](https://scikit-learn.org/stable/modules/naive_bayes.html)
-* [Langdetect Documentation](https://pypi.org/project/langdetect/)
 * [FastText Language Identification](https://fasttext.cc/docs/en/language-identification.html)
 
 ---
